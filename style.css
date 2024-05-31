@@ -17,7 +17,8 @@ body {
     background-color: #333333;
     height: 75px;
     border-bottom: greenyellow 5px solid;
-    box-shadow: 0 0 10px 0 rgb(0, 0, 0);
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+    z-index: 1000;
 }
 
 .container {
@@ -47,7 +48,7 @@ header {
 h1 {
     font-size: 4rem;
     font-weight: 700;
-    animation: fadeIn 2s ease-in-out infinite;
+    animation: fadeIn 6s ease-in-out infinite;
 }
 
 p {
