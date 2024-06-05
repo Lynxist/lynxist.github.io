@@ -40,13 +40,14 @@ body {
     font-size: 1.2rem;
     font-weight: 600;
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 .btnclass:hover {
     background-color: greenyellow;
     color: black;
     border: 2px solid #866f6f;
+    scale: 1.1;
 }
 
 .container {
@@ -55,7 +56,7 @@ body {
     align-items: center;
     height: 100vh;
     text-align: center;
-    background-image: url('https://media.discordapp.net/attachments/1102694003104825528/1246220016005939250/Designer.png?ex=665b9855&is=665a46d5&hm=064f427f012e50a8ffcd4498a517b84bb1f096df971a7ee1e8b5fa67b1fac2f7&=&format=webp&quality=lossless&width=671&height=671');
+    background-image: url('https://cdn.discordapp.com/attachments/1102694003104825528/1246229082564198482/Designer4k.png?ex=66618f87&is=66603e07&hm=55b2f763f6700a3710f8a0c64a42ed919658fe6e416146345794c2aaa7bb673a&');
     background-size: cover;
 }
 
